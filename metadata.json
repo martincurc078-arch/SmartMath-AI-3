@@ -1,0 +1,8 @@
+{
+  "name": "SmartMath AI",
+  "description": "AI-powered real-time math solver with step-by-step explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
